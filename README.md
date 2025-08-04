@@ -40,9 +40,10 @@
 ---
 
 ![Sowrabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabhshettigar&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowrabhshettigar&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ## 📊 GitHub Contribution Graph
@@ -51,8 +52,5 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowrabhshettigar&theme=radical" alt="GitHub Streak" />
-</p>
+
 
