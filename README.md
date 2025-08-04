@@ -2,8 +2,9 @@
 
 ## 💻 I’m a Full Stack Software Developer
 - 🔭**I’m currently building a self-developed real-time chat application called ChatNest using the MERN stack, built entirely from scratch.**
-- 🌱 I’m currently learning Google Cloud.
-- 💬 💬 Ask me about Java, MERN, DBMS, or Android
+- 🚀 DSA enthusiast coding in Java  
+- 🤖 Diving into Machine Learning with curiosity and code
+- 💬 Ask me about Java, MERN, DBMS, or Android
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
 ---
