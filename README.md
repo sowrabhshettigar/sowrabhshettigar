@@ -8,6 +8,9 @@
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
 ---
+## 📌 Pinned Project
+🔗 [ChatNest](https://github.com/sowrabhshettigar/ChatNest)
+---
 
 ## 🚀 My Tech Stack
 
@@ -41,7 +44,5 @@
 
 ---
 
-## 📌 Pinned Project
-🔗 [ChatNest](https://github.com/sowrabhshettigar/ChatNest)
 
 
