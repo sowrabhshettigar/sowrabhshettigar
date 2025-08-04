@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/tCVc6wZp/Programming-aesthetic-wallpaper.jpg" alt="Banner" width="100%" height="250px" />
+<img src="https://i.postimg.cc/gcwpMMXB/CODEVENOM-Fullstack-Development-Wallpaper.jpg" alt="Banner" width="100%" height="300px" />
 
 ## Hi there👋, I'm Sowrabh Shettigar
 
