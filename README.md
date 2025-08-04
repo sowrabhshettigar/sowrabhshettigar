@@ -9,13 +9,11 @@
 - 💬 Ask me about Java, MERN, DBMS, or Android
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
+## 💼 Hire Me
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowrabh-shettigar-11372527a/)
 
 ## 📌 Pinned Project
 🔗 [ChatNest](https://github.com/sowrabhshettigar/ChatNest)
-
-## 💼 Hire Me
-
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowrabh-shettigar-11372527a/)
 
 ## 🚀 My Tech Stack
 
