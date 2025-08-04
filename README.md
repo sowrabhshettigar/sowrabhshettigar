@@ -35,6 +35,7 @@
 ---
 
 ![Sowrabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabhshettigar&layout=compact&theme=radical)
 
 ---
 
