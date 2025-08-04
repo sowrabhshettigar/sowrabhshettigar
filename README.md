@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Sowrabh Shettigar
 
-## 💻 I’m a Software Developer
+## 💻 I’m a Full Stack Software Developer
 - 🔭 I’m currently building a self-developed real-time chat application called ChatNest using the MERN stack, built entirely from scratch.
 - 🌱 I’m currently learning Google Cloud.
 - 💬 💬 Ask me about Java, MERN, DBMS, or Android
