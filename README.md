@@ -45,6 +45,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabhshettigar&layout=compact&theme=radical)
 
 ---
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=sowrabhshettigar&theme=onedark&no-frame=true&title=Followers,Stars,Commit,PullRequest,Issues)
 
 
 
