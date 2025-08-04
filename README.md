@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/4NTkNXyp/gitimage.jpg" alt="Banner" width="100%" />
+<img src="https://i.postimg.cc/4NTkNXyp/gitimage.jpg" alt="Banner" width="100%" height="300px" />
 
 ## Hi there👋, I'm Sowrabh Shettigar
 
