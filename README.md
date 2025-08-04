@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/J4yfqtgw/Digital-Campaigns.gif" alt="Banner" width="100%" height="200px" />
+<img src="https://i.postimg.cc/tCVc6wZp/Programming-aesthetic-wallpaper.jpg" alt="Banner" width="100%" height="250px" />
 
 ## Hi there👋, I'm Sowrabh Shettigar
 
