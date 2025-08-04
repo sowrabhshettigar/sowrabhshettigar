@@ -1,3 +1,5 @@
+<img src="https://i.postimg.cc/4NTkNXyp/gitimage.jpg" alt="Banner" width="100%" />
+
 ## Hi there👋, I'm Sowrabh Shettigar
 
 ## 💻 I’m a Full Stack Software Developer
