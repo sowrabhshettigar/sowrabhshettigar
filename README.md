@@ -13,6 +13,9 @@
 ## 📌 Pinned Project
 🔗 [ChatNest](https://github.com/sowrabhshettigar/ChatNest)
 
+## 💼 Hire Me
+
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowrabh-shettigar-13712527a/)
 
 ## 🚀 My Tech Stack
 
@@ -45,8 +48,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowrabhshettigar&theme=radical" alt="GitHub Streak" />
 </p>
 
-
-## 📊 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowrabhshettigar&theme=github-compact)
 
