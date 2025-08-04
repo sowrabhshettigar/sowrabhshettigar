@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/gcwpMMXB/CODEVENOM-Fullstack-Development-Wallpaper.jpg" alt="Banner" width="100%" height="300px" />
+<img src="https://i.postimg.cc/gcwpMMXB/CODEVENOM-Fullstack-Development-Wallpaper.jpg" alt="Banner" width="100%" height="200px" />
 
 ## Hi there👋, I'm Sowrabh Shettigar
 
