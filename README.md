@@ -15,7 +15,7 @@
 
 ## 💼 Hire Me
 
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowrabh-shettigar-13712527a/)
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowrabh-shettigar-11372527a/)
 
 ## 🚀 My Tech Stack
 
