@@ -1,8 +1,5 @@
 ## Hi there👋, I'm Sowrabh Shettigar
 
-
-**sowrabhshettigar/sowrabhshettigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 💻 I’m a Software Developer
 - 🔭 I’m currently building a self-developed real-time chat application called ChatNest using the MERN stack, built entirely from scratch.
 - 🌱 I’m currently learning Google Cloud.
