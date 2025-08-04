@@ -45,5 +45,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabhshettigar&layout=compact&theme=radical)
 
 
+## 📊 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowrabhshettigar&theme=github-compact)
 
 
