@@ -7,10 +7,10 @@
 - 💬 Ask me about Java, MERN, DBMS, or Android
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
----
+
 ## 📌 Pinned Project
 🔗 [ChatNest](https://github.com/sowrabhshettigar/ChatNest)
----
+
 
 ## 🚀 My Tech Stack
 
