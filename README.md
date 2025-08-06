@@ -41,9 +41,10 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical)
 
+## 💼 Hire Me
 
+I'm open to full-time roles, internships, and freelance projects.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowrabhshettigar&theme=radical" alt="GitHub Activity Graph"/>
-</p>
+📧 Email: sowrabhshettigar114@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sowrabh-shettigar-11372527a/)
 
