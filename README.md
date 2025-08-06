@@ -41,8 +41,6 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sowrabhshettigar)](https://git.io/streak-stats)
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sowrabhshettigar&theme=tokyonight&hide_border=true&ring=FF9E00&fire=FF6600&currStreakLabel=00FFFF&sideLabels=FFD700" alt="GitHub Streak" />
