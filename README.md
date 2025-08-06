@@ -39,11 +39,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radica)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src=<img src="https://streak-stats.demolab.com?user=sowrabhshettigar&theme=radical" alt="GitHub Streak" />
-</p>
 
 
