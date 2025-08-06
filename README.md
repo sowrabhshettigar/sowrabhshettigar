@@ -39,13 +39,16 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sowrabhshettigar&theme=tokyonight&hide_border=true&ring=FF9E00&fire=FF6600&currStreakLabel=00FFFF&sideLabels=FFD700" alt="GitHub Streak" />
-  </a>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=sowrabhshettigar&theme=tokyonight&hide_border=true&ring=FF9E00&fire=FF6600&currStreakLabel=00FFFF&sideLabels=FFD700" alt="GitHub Streak" />
 </p>
+
 
 
 
