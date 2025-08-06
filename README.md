@@ -5,7 +5,7 @@
 ## 💻 I’m a Full Stack Software Developer
 - 🔭**I’m currently building a self-developed real-time chat application called "ChatNest" using the MERN stack and Socket.io, built entirely from scratch.**
 - 🚀 DSA enthusiast coding in Java  🧩 LeetCode: [leetcode.com/sowrabhshettigar](https://leetcode.com/sowrabhshettigar)
-- 🤖 Diving into Machine Learning with curiosity and code
+- 🤖 Diving into CLoud Tecchnologies with curiosity
 - 💬 Ask me about Java, MERN, DBMS, or Android
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
