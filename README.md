@@ -40,7 +40,7 @@
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabhshettigar&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sowrabhshettigar)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sowrabhshettigar"/></a>
 
 
 
