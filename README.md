@@ -3,14 +3,14 @@
 ## Hi there👋, I'm Sowrabh Shettigar
 
 ## 💻 I’m a Full Stack Developer
-- 🔭 **I’m currently building a self-developed real-time chat application called "ChatNest" using the MERN stack and Socket.io, built entirely from scratch.**
+- 🔭 **I’m currently building a self-developed Meter Data Management System (MDMS) using the MERN stack, designed to manage and analyze electricity meter data across multiple user levels with advanced React concepts**
 - 🚀 DSA enthusiast coding in Java  🧩
 - 🤖 DevOps Enthusiast
 - 💬 Ask me about Java, MERN, DBMS, or Android
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
 ## 📌 Pinned Project
-🔗 [ChatNest](https://github.com/sowrabhshettigar/ChatNest)
+🔗 [MDMSM](https://github.com/sowrabhshettigar/MDMS)
 
 ## 🚀 My Tech Stack
 
