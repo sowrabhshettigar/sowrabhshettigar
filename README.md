@@ -10,7 +10,7 @@
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
 
 ## 📌 Pinned Project
-🔗 [MDMSM](https://github.com/sowrabhshettigar/MDMS)
+🔗 [MDMS](https://github.com/sowrabhshettigar/MDMS)
 
 ## 🚀 My Tech Stack
 
