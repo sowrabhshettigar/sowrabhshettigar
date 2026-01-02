@@ -4,7 +4,7 @@
 
 ## 💻 I’m a Full Stack Developer
 - 🔭 **I’m currently building a self-developed Meter Data Management System (MDMS) using the MERN stack, designed to manage and analyze electricity meter data across multiple user levels with advanced React concepts**
-- 🚀 DSA enthusiast coding in Java  🧩
+- 🚀 DSA enthusiast coding in Java  🧩🔗 [LeetCode](https://leetcode.com/u/sowrabhshettigar/)
 - 🤖 DevOps Enthusiast
 - 💬 Ask me about Java, MERN, DBMS, or Android
 - 📫 How to reach me: sowrabhshettigar114@gmail.com
